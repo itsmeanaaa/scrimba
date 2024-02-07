@@ -1,0 +1,28 @@
+body{
+   
+}
+img{
+    display:block;
+    margin:auto;
+}
+.section{
+   
+    display:block;
+    margin:auto;
+}
+   
+input{
+    width: 70%;
+    height: 30px;
+    display:block;
+    margin:auto;
+}
+button{
+    display:inline;
+    margin:auto;
+}
+.button-class{
+    height: 50px;
+
+    
+}
