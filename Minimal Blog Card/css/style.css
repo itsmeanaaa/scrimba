@@ -1,0 +1,32 @@
+body{
+   background-color: #E5EAF0;
+}
+.First-section{
+    border:4px black;
+    border-radius: 20px;
+    background-color: white;
+    padding:20px;
+    width: 50%;
+}
+img{
+    width:100px;
+    display: block;
+    margin:auto;
+}
+.cactus-section{
+    width: 50%;
+    height: 50%;
+    box-shadow: 20px;
+    border-radius: 20px;
+}
+.header{
+    font-size: 14px;
+}
+.content{
+    display: block;
+    margin:auto;
+    font-size: 12px;
+}
+.author{
+    font-size: 10px;
+}
