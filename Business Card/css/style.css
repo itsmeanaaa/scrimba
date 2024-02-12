@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    
+}
+img{
+    width: 200px;
+    margin: 20px;
+}
+.section-one{
+    background-color: #ddebf8;
+    width: 80%;
+    padding: 20px;
+    border-bottom: solid 15px #d8cefe;
+    display: inline-flex;
+    justify-content: center;
+}
