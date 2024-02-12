@@ -2,5 +2,5 @@
 - justify- content
 - align items
 - display flex
-
+- align-self: flex-start & align flex start
   Today I was able to deep drive about flex on how I will able to maximize the usage of it to develop responsive website
