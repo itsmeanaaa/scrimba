@@ -1,0 +1,25 @@
+body{
+    background-color: lightcyan ;
+    margin:20;
+}
+h1{
+    color:red;
+    display: flex;
+    justify-content: center;
+}
+.container-one,.container-two{
+    display: flex;
+    justify-content: center;
+}
+.one, .two, .three,.four,.five,.six{
+    background-color: #88d8b0;
+    padding: 20px 20px;
+    margin: 5px;
+    color: grey;
+    display: flex;
+    justify-content: center;
+}
+
+.two,.three,.four,.five{
+    width: 50%;
+}
