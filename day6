@@ -1,0 +1,7 @@
+Today I was able to tackle css grid 
+  -display:grid
+  - grid-template-columns:repeat(auto-fit,minmax(100px,1fr));
+-grid-template-rows;
+grip-gap
+
+//Tomorrow my activity is to create instagram feed using grid;
